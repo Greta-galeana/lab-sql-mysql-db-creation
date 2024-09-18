@@ -66,4 +66,5 @@ VALUES
 (00005,	'Paige Turner', 'Mimia')
 (00006,	'Bob Frapples', 'Mexico City')
 (00007,	'Walter Melon', 'Amsterdam')
-(00008,	'Shonda Leer', 'São Paulo');
+(00008,	'Shonda Leer', 'São Paulo')
+(00009,'Greta','Barcelona');
